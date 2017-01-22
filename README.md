@@ -5,7 +5,7 @@ Parser helps to extract Layer information, Weights and Bias of each layers from 
 This helps in implementing classifying/inferencing on VPU's
 
 # Script
-Python CaffemodelParser.py  "path 2 deploy.prototxt file"  "path 2 .caffemodel file"
+Python CaffemodelParser.py  "path to deploy.prototxt file"  "path to .caffemodel file"
 
 # Output
 * LayerName: Name of the Layer
