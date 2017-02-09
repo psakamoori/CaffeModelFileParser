@@ -1,7 +1,7 @@
 # CaffeModelFileParser
 
 # Overview
-Parser helps to extract Layer information, Weights and Bias of each layers from .caffeodel file.
+Parser the .caffemodel file to extract Layer information, Weights and Bias of each layers.
 This helps in implementing classifying/inferencing on VPU's
 
 # Script
